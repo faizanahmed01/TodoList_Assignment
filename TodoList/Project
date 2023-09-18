@@ -1,0 +1,7 @@
+Todo list Project using inquirer
+
+npm install -g typescript
+tsc --init
+npm init -y
+npm i inquirer
+npm i @types/inquirer -D
